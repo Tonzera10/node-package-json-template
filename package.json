@@ -1,0 +1,24 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "Exercicio da aula de node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "exe1": "clear && node exercicio1.js Brazil",
+    "exe2": "clear && node exercicio2.js B",
+    "exe3": "clear && node exercicio3.js BarbosaA BA",
+    "fix": "clear && node fixacao Everton 28"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tonzera10/node-package-json-template.git"
+  },
+  "author": "Everton Mello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tonzera10/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/Tonzera10/node-package-json-template#readme"
+}
